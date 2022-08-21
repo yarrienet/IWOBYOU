@@ -1,45 +1,45 @@
-# ILOVEYOU
+# ILOVEYOU ٩(´ᵕ｀๑)و
 
-> **ILOVEYOU**, sometimes referred to as **Love Bug** or **Love Letter**, was a
-> [computer worm](https://en.wikipedia.org/wiki/Computer_worm) that attacked
-> tens of millions of [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-> personal computers on and after 5 May 2000 local time in the
-> [Philippines](https://en.wikipedia.org/wiki/Philippines) when it started
-> spreading as an email message with the subject line "ILOVEYOU" and the
-> attachment "LOVE-LETTER-FOR-YOU.txt.vbs".
+> **IWOBYOU**, sometimes wefewwed to as **love buwg** ow **love lettew**, was a
+> [compuwtew wowm](https://en.wikipedia.org/wiki/Computer_worm) that attacked
+> tens of miwwions of [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+> pewsonaw compuwtews on and aftew 5 may 2000 wocaw time in the
+> [Phiwippines](https://en.wikipedia.org/wiki/Philippines) when it stawted
+> spweading as an emaiw message with the suwbject wine "IWOBYOU" and the
+> attachment "WOB-LETTER-FOR-YOU.TXT.VBS".
 >
-> — Wikipedia, [ILOVEYOU](https://en.wikipedia.org/wiki/ILOVEYOU)
+> — Wikipedia, [IWOBYOU](https://en.wikipedia.org/wiki/ILOVEYOU)
 
-This is a formatted version of the **ILOVEYOU** worm also known as **Love
-Letter**. It includes comments which explains the routines that are used by the
-worm to infect and spread itself.
+This is a fowmatted vewsion of the **iloveyou** wowm awso known as **wob
+Lettew**. It incwuwdes comments which expwains the wouwtines that awe uwsed by the
+wowm to infect and spwead itsewf.
 
-## How it works
+## How it wowks (ʘ‿ʘ✿)
 
-The worm is distributed primarily through email, most prominently [Microsoft
-Outlook](https://en.wikipedia.org/wiki/Microsoft_Outlook) at the time. It does
-so by sending an email to each of the victim's contacts, listed in their
-[Address Book](https://en.wikipedia.org/wiki/Windows_Address_Book).
+The wowm is distwibuwted pwimawiwy thwouwgh emaiw, most pwominentwy [micwosoft
+Ouwtwook](https://en.wikipedia.org/wiki/Microsoft_Outlook) at the time. It does
+so by sending an emaiw to each of the victim's contacts, wisted in theiw
+[Addwess Book](https://en.wikipedia.org/wiki/Windows_Address_Book).
 
-When executed, it infects different files in the system by writing itself to
-document files, MP3s/MP2s, JPEG, and other Visual Basic scripts and changing
-their extension to `.vbs`, making them executable.
+When execuwted, it infects diffewent fiwes in the system by wwiting itsewf to
+docuwment fiwes, MP3s/MP2s, JPEG, and othew Visuwaw Basic scwipts and changing
+theiw extension to `.vbs`, making them execuwtabwe.
 
-It also makes it so, after having executed the script the first time, will
-execute on each startup of the computer, making it very difficult to stop.
+It awso makes it so, aftew having execuwted the scwipt the fiwst time, wiww
+execuwte on each stawtuwp of the compuwtew, making it vewy difficuwwt to stop.
 
-It relies on the fact that Windows will automatically execute any Visual
-Basic Script files, when opened from the file explorer or from Outlook, making
-it trivial for a victim to accidentally execute it.
+It wewies on the fact that windows wiww auwtomaticawwy execuwte any Visuwaw
+Basic scwipt fiwes, when opened fwom the fiwe expwowew ow fwom Ouwtwook, making
+it twiviaw fow a victim to accidentawwy execuwte it.
 
-## Disclaimer
+## Discwaimew ⊙﹏⊙
 
-**This program and its source files are only uploaded for educational purposes.
-Do not execute this program if you do not know what it does and what the risks
-are.**
+**This pwogwam and its souwwce fiwes awe onwy uwpwoaded fow eduwcationaw puwwposes.
+Do not execuwte this pwogwam if u do not know what it does and what the wisks
+awe.**
 
-## Credits
+## Cwedits (๑•﹏•)
 
-The original source code was obtained from
-[Cexx.org](http://www.cexx.org/loveletter.htm) and formatted and commented by
-me.
+The owiginaw souwwce code was obtained fwom
+[Cexx.org](http://www.cexx.org/loveletter.htm) and fowmatted and commented by
+ONX - OwO text by Cass Python.
